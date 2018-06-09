@@ -8,10 +8,10 @@
 	],
         "cflags": ["-Wall", "-Wextra", "-pedantic", "-O3"],
         "xcode_settings": {
-    	    "OTHER_CPLUSPLUSFLAGS": ["-std=c++14"],
+    	    "OTHER_CPLUSPLUSFLAGS": [],
         },
-        "cflags_c": ["-std=c11", "-Wunused-parameter"], 
-        "cflags_cc": ["-std=c++14"]
+        "cflags_c": ["-Wunused-parameter"], 
+        "cflags_cc": []
     }]
 }
 
